@@ -1,4 +1,4 @@
-Data-Driven Maintenance Prioritisation using Machine Performance and Health Data
+**Data-Driven Maintenance Prioritisation using Machine Performance and Health Data**
 
 This is the code repository for my MSc Data Science dissertation (module M599) at Gisma University of Applied Sciences.
 
